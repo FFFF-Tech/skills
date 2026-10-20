@@ -1,2 +1,1 @@
-# skills
-Exercise: Introduction to GitHub
+Welcome to my GitHub profile!
